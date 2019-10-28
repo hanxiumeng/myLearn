@@ -1,2 +1,12 @@
 1、手把手教你Git
    https://gitchat.csdn.net/activity/5be6c7f30ca0e77081d9ef12?utm_source=so
+2、一个高频面试题：怎么保证缓存与数据库的双写一致性？
+   https://blog.csdn.net/hollis_chuang/article/details/98697260
+3、2019华为软件精英挑战赛
+   https://codecraft.huawei.com/Generaldetail
+4、2019华为软件精英挑战赛总结篇
+   https://blog.csdn.net/Selenitic_G/article/details/89331206
+5、2018华为软件精英挑战赛总结及代码
+   https://blog.csdn.net/u012677715/article/details/80457298
+6、阿里云开发者创新应用大赛
+   https://promotion.aliyun.com/ntms/act/mvpAce2019.html
