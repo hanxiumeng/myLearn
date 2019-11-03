@@ -1,0 +1,12 @@
+国内比赛有哪些：https://baijiahao.baidu.com/s?id=1628151630046543867&wfr=spider&for=pc
+校园网：http://172.16.200.13/
+github：https://github.com/hanxiumeng/myLearn
+多吉搜索：https://www.dogedoge.com/
+中国计算机学会：https://www.ccf.org.cn/
+C++STL源码：https://github.com/microsoft/STL
+Linux环境下编译TensorFlow C++ API和测试方法总结（完美版）：https://blog.csdn.net/asialee_bird/article/details/100990483
+合工大研究生管理信息系统：http://121.251.19.89/yjsxt1/tourist.php?act=tourist.LoginAndRegister.SystemLogin
+
+https://github.com/SinhLv/Dell-Ins-14-5447-hackintosh
+
+https://github.com/daliansky/Hackintosh
