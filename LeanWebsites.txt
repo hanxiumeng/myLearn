@@ -10,3 +10,5 @@
    https://blog.csdn.net/u012677715/article/details/80457298
 6、阿里云开发者创新应用大赛
    https://promotion.aliyun.com/ntms/act/mvpAce2019.html
+
+7、https://github.com/YiChenCityU/Recent_SLAM_Research
