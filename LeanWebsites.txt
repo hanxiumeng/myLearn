@@ -12,3 +12,8 @@
    https://promotion.aliyun.com/ntms/act/mvpAce2019.html
 
 7、https://github.com/YiChenCityU/Recent_SLAM_Research
+
+8、翻译：ORB-SLAM: a Versatile and Accurate Monocular SLAM System：
+   https://blog.csdn.net/super_mice/article/details/50972992
+9、ORB-SLAM: A Versatile and Accurate Monocular SLAM Syetem 讲解 1：
+   https://blog.csdn.net/c602273091/article/details/54348202
